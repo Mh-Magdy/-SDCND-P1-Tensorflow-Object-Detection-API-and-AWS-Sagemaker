@@ -1,5 +1,6 @@
-# My Submission for Project 1 Udacity Self Deriving Car Engineer Nanodegree - Lesson1: Computer Vision.
-## Open write-up-Notebook.ipynb notebook for Project: Object Detection in an Urban Environment 2.0 Rubric Points Evaluation.
+# My Submission for Project: Object Detection in an Urban Environment 2.0
+## Udacity Self Deriving Car Engineer Nanodegree - Lesson1: Computer Vision.
+### write-up-Notebook.ipynb notebook contains the Rubric Points.
 
 ## Files tree:
 ```
