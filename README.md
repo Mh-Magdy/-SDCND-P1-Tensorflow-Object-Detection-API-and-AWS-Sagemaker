@@ -1,4 +1,5 @@
-# My Submission for Project 1 Udacity Self Deriving Car Engineer Nanodegree - Lesson1: Computer Vision
+# My Submission for Project 1 Udacity Self Deriving Car Engineer Nanodegree - Lesson1: Computer Vision.
+## Open write-up-Notebook.ipynb notebook for Project: Object Detection in an Urban Environment 2.0 Rubric Points Evaluation.
 
 ## Files tree:
 ```
@@ -40,7 +41,7 @@
 │       │   ├── 4.png
 │       │   └── 5.png
 │       └── pipeline.config
-└── **write-up-Notebook.ipynb**     <-------------------------------------------------------------- `Contains the writeup and summary of the experiments.`
+└── write-up-Notebook.ipynb    <--------------------------------------- Contains the writeup and summary of the experiments.
 ```
 
 
