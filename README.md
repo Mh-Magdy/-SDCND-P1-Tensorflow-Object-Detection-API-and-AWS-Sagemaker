@@ -40,7 +40,7 @@
 │       │   ├── 4.png
 │       │   └── 5.png
 │       └── pipeline.config
-└── write-up-Notebook.ipynb     <-------------------- Contains the writeup and summary of the experiments.
+└── **write-up-Notebook.ipynb**     <-------------------------------------------------------------- `Contains the writeup and summary of the experiments.`
 ```
 
 
